@@ -5,9 +5,9 @@
     "id": "installable-pwa-test/",
     "icons": [
         {
-            "src": "icon.jpeg",
-            "sizes": "92x92",
-            "type": "image/jpeg"
+            "src": "icon.png",
+            "sizes": "220x229",
+            "type": "image/png"
         }
     ],
     "display": "fullscreen",
