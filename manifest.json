@@ -1,0 +1,15 @@
+{
+    "name": "Installable PWA Test",
+    "short_name": "Installable PWA",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "icon.jpeg",
+            "sizes": "92x92",
+            "type": "image/jpeg"
+        }
+    ],
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+}
