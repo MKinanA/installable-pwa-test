@@ -1,8 +1,7 @@
 {
     "name": "Installable PWA Test",
     "short_name": "Installable PWA",
-    "start_url": "installable-pwa-test/index.html",
-    "id": "installable-pwa-test/",
+    "start_url": "/",
     "icons": [
         {
             "src": "icon.png",
